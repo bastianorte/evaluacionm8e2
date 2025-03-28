@@ -7,7 +7,7 @@ proyecto, implementar pruebas automatizadas en al menos un componente, configura
 pipeline de CI/CD con GitHub Actions y gestionar ramas en la nube para mantener un flujo de
 desarrollo ordenado.
 
-![Inicio](public/assets/vista.png)
+
 
 ## 📁 Proyecto
 
@@ -82,6 +82,16 @@ npm run dev
 ```
 
 Abre `http://localhost:5173` en tu navegador para visualizar la aplicación.
+
+
+## 📁 Integración de Docker
+
+![Docker](public/assets/docker.png)
+
+
+## 📁 Implementación de Pruebas Automatizadas con Vitest
+
+![Vitest](public/assets/vitest.png)
 
 
 ## 🔧 Tecnologías utilizadas
