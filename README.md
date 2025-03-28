@@ -38,7 +38,10 @@ desarrollo ordenado.
 │   │   ├── Equipo.jsx
 │   │   └── Inicio.jsx
 │   ├── index.css
+│   ├── setupTest.js
 │   └── main.jsx
+├── .dockerignore
+├── Dockerfile
 ├── README.md
 ├── eslint.config.js
 ├── index.html
